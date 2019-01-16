@@ -1,4 +1,4 @@
-# Numpy Pandas
+# NumPy Pandas
 ## Objective
 HeroesOfPymoli :To generate a report that breaks down the game's purchasing data into meaningful insights.
 
